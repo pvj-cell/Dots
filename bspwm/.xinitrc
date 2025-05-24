@@ -1,0 +1,2 @@
+exec sxhdk &
+exec bspwm
